@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1769798732617,
+    "name": "adarsh",
+    "ward": "65165165",
+    "bed": "541654154",
+    "saline": "Ringer Lactate",
+    "dripLevel": 100
+  },
+  {
+    "id": 1769848972432,
+    "name": "HR",
+    "ward": "123546",
+    "bed": "D86",
+    "saline": "Normal Saline",
+    "dripLevel": 100,
+    "totalVolume": 5000,
+    "rate": 100,
+    "startTime": 1769848972432,
+    "currentVolume": 5000
+  },
+  {
+    "id": 1769857643167,
+    "name": "SK",
+    "ward": "41016",
+    "bed": "B-02122007",
+    "saline": "Antibiotic Sol",
+    "dripLevel": 100,
+    "totalVolume": 7,
+    "rate": 45,
+    "startTime": 1769857643167,
+    "currentVolume": 7
+  },
+  {
+    "id": 1769857943602,
+    "name": "Trazy",
+    "ward": "RUT-5",
+    "bed": "t-3",
+    "saline": "Dextrose 5%",
+    "dripLevel": 100,
+    "totalVolume": 200,
+    "rate": 20,
+    "startTime": 1769857943602,
+    "currentVolume": 2000
+  },
+  {
+    "id": 1769861491697,
+    "name": "Susan ",
+    "ward": "7845",
+    "bed": "3541",
+    "saline": "Normal Saline",
+    "dripLevel": 100,
+    "totalVolume": 5000,
+    "rate": 1000,
+    "startTime": 1769861491697,
+    "currentVolume": 5
+  },
+  {
+    "id": 1769862674565,
+    "name": "Krish",
+    "ward": "DRT-4",
+    "bed": "H-8",
+    "saline": "Normal Saline",
+    "dripLevel": 100,
+    "totalVolume": 5000,
+    "rate": 50,
+    "startTime": 1769862674565,
+    "currentVolume": 5000
+  },
+  {
+    "id": 1769863824828,
+    "name": "Ester",
+    "ward": "ICU-98",
+    "bed": "B-85",
+    "saline": "Antibiotic Sol",
+    "dripLevel": 100,
+    "totalVolume": 200,
+    "rate": 150,
+    "startTime": 1769863824828,
+    "currentVolume": 200
+  },
+  {
+    "id": 1770871024178,
+    "name": "Xavier",
+    "ward": "St-92",
+    "bed": "A-12",
+    "saline": "Antibiotic Sol",
+    "dripLevel": 100,
+    "totalVolume": 1000,
+    "rate": 7,
+    "startTime": 1770871024178,
+    "currentVolume": 1000
+  }
+]
